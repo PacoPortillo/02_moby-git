@@ -13,5 +13,8 @@ Se creó una imagen y se enlazó a este documento:
 ## Día 3
 Se recibe para hacer un commit
 
+### Día 4
+Estudiamos los camoandos
+
 
 
